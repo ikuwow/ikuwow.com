@@ -1,0 +1,7 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^(?!.*www\.)ikuwow\.com [NC]
+RewriteRule ^(.*) http://www.ikuwow.com/$1 [R=301,L]
+
+RewriteCond %{THE_REQUEST} ^.*/index.html
+RewriteRule ^(.*)index.html$ http://www.ikuwow.com/$1 [R=301,L]
