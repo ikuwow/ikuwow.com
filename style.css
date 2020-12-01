@@ -1,0 +1,20 @@
+.content {
+  max-width: 764px;
+  padding: 0 2em;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4em;
+  max-width: 100%;
+}
+
+img {
+  border-radius: 50%;
+  max-width: 100%;
+}
+
+.profile {
+  font-size: 2em;
+}
