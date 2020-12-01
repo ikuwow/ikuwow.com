@@ -1,20 +1,21 @@
 .content {
   max-width: 764px;
-  padding: 0 2em;
+  padding: 0 1em;
   margin: 0 auto;
   text-align: center;
 }
 
 h1 {
-  font-size: 4em;
   max-width: 100%;
+  word-wrap: break
 }
 
 img {
   border-radius: 50%;
-  max-width: 100%;
+  width: 100%;
+  max-width: 256px;
 }
 
 .profile {
-  font-size: 2em;
+  font-size: 1em;
 }
