@@ -5,12 +5,12 @@
   text-align: center;
 }
 
-h1 {
+.content h1 {
   max-width: 100%;
   word-wrap: break
 }
 
-img {
+.content img {
   border-radius: 50%;
   width: 100%;
   max-width: 256px;
