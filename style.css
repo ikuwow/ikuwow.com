@@ -1,16 +1,16 @@
-.content {
+.c {
   max-width: 764px;
   padding: 0 1em;
   margin: 0 auto;
   text-align: center;
 }
 
-.content h1 {
+.c h1 {
   max-width: 100%;
   word-wrap: break
 }
 
-.content img {
+.c img {
   border-radius: 50%;
   width: 100%;
   max-width: 256px;
