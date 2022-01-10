@@ -1,3 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+
 .c {
   max-width: 764px;
   padding: 0 1em;
